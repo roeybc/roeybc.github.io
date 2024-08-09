@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>roeybc: building &amp; testing</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on roeybc: building &amp; testing</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top Tier engineering books</title>
+      <link>http://localhost:1313/posts/books/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/books/</guid>
+      <description>First Entry! Listing some technical books that I higly recommend (and actually read).
+Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD
+By Jeremy Howard and Sylvain Gugger
+Programming Massively Parallel Processors: A Hands-on Approach
+by Wen-mei W. Hwu, David B. Kirk, and Izzat El Hajj</description>
+    </item>
+  </channel>
+</rss>
